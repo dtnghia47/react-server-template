@@ -1,0 +1,2 @@
+# react-server-template
+nextjs
